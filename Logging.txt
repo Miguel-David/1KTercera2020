@@ -1,0 +1,4 @@
+mar. 11, 2021 10:43:39 A. M. Pruebas.Principal main
+INFORMACIÓN: Iniciamos el programa
+mar. 11, 2021 10:44:37 A. M. Pruebas.Principal main
+INFORMACIÓN: Se crea la dirección Pruebas.Direccion@2b552920

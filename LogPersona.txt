@@ -1,0 +1,32 @@
+mar. 11, 2021 4:02:50 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona ANA tiene 23 años y su NIF es 553436-H
+mar. 11, 2021 4:03:50 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='Ana', edad=23, digitosNIF='553436', letraNIF=H}
+mar. 11, 2021 4:12:02 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='Ana', edad=23, digitosNIF='553436', letraNIF=H}
+mar. 11, 2021 4:12:03 P. M. Excepciones.Persona <init>
+GRAVE: Se intenta crear una persona con nombre malo: $%$·
+mar. 11, 2021 4:17:21 P. M. Excepciones.Persona chequea
+GRAVE: Edad mal al crear 23
+mar. 11, 2021 4:18:13 P. M. Excepciones.Persona chequea
+GRAVE: Edad mal al crear 23
+mar. 11, 2021 4:19:01 P. M. Excepciones.Persona chequea
+GRAVE: NIF MAL5534364H
+mar. 11, 2021 4:19:16 P. M. Excepciones.Persona chequea
+GRAVE: NIF MAL5534364H
+mar. 11, 2021 4:19:28 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='Ana', edad=23, digitosNIF='5553436', letraNIF=H}
+mar. 11, 2021 4:19:28 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='Ana', edad=43, digitosNIF='5853436', letraNIF=H}
+mar. 11, 2021 4:22:51 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='Ana', edad=23, digitosNIF='6663436', letraNIF=H}
+mar. 11, 2021 4:22:52 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='Ana', edad=43, digitosNIF='5853436', letraNIF=H}
+mar. 11, 2021 4:23:08 P. M. Excepciones.Persona chequea
+GRAVE: Letra del NIF MAL 666343647
+mar. 11, 2021 4:25:35 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='Ana', edad=23, digitosNIF='5554442', letraNIF=T}
+mar. 11, 2021 4:27:50 P. M. Excepciones.Persona chequea
+GRAVE: Longitud NIF MALtrew
+mar. 11, 2021 4:31:32 P. M. Excepciones.Persona <init>
+INFORMACIÓN: Se ha creado una persona Persona{nombre='ana', edad=76, digitosNIF='4443338', letraNIF=E}
