@@ -1,0 +1,6 @@
+mar. 12, 2021 3:28:35 P. M. es.EjemploLog main
+INFORMACIÓN: Inicio de la aplicacion
+mar. 12, 2021 3:28:54 P. M. es.EjemploLog main
+INFORMACIÓN: Inicio de la aplicacion
+mar. 12, 2021 3:28:58 P. M. es.EjemploLog main
+INFORMACIÓN: Inicio de la aplicacion

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-12T14:24:55.015592100Z</date>
+  <millis>1615559095015</millis>
+  <nanos>592100</nanos>
+  <sequence>0</sequence>
+  <logger>Ejemplo</logger>
+  <level>INFO</level>
+  <class>es.EjemploLog</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Inicio de la aplicacion</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-12T14:26:07.932913600Z</date>
+  <millis>1615559167932</millis>
+  <nanos>913600</nanos>
+  <sequence>0</sequence>
+  <logger>Ejemplo</logger>
+  <level>INFO</level>
+  <class>es.EjemploLog</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Inicio de la aplicacion</message>
+</record>
+</log>

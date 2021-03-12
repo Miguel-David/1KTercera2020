@@ -1,0 +1,160 @@
+mar. 12, 2021 4:05:20 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:05:20 P. M. es.Video <init>
+ADVERTENCIA: Han intentado crear un video con URL falsa: perico también intentas una duración de 200
+mar. 12, 2021 4:09:51 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:09:51 P. M. es.Video <init>
+ADVERTENCIA: Han intentado crear un video con URL falsa: perico también intentas una duración de 200
+mar. 12, 2021 4:11:15 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:11:15 P. M. es.Video <init>
+ADVERTENCIA: Han intentado crear un video con URL falsa: perico también intentas una duración de 200
+mar. 12, 2021 4:13:20 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:14:20 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:14:20 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo 
+mar. 12, 2021 4:15:57 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:15:57 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s dura: 3:20 y tiene 0 visualizaciones
+mar. 12, 2021 4:16:36 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:16:36 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:43:41 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:43:41 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:44:18 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:44:18 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:44:39 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=DZmrmLnn-0Y&t=885s', duracion=2500, visualizaciones=0}
+mar. 12, 2021 4:44:39 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 4:47:09 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:47:09 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:47:09 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=DZmrmLnn-0Y&t=885s', duracion=2500, visualizaciones=0}
+mar. 12, 2021 4:47:09 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 4:48:51 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:48:51 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:48:51 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=DZmrmLnn-0Y&t=885s', duracion=2500, visualizaciones=0}
+mar. 12, 2021 4:48:51 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 4:49:38 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:49:38 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:49:38 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=DZmrmLnn-0Y&t=885s', duracion=2500, visualizaciones=0}
+mar. 12, 2021 4:49:38 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 4:50:35 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:50:35 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:50:35 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=DZmrmLnn-0Y&t=885s', duracion=2500, visualizaciones=0}
+mar. 12, 2021 4:50:35 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 4:50:44 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:50:44 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:50:44 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=DZmrmLnn-0Y&t=885s', duracion=2500, visualizaciones=0}
+mar. 12, 2021 4:50:44 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 4:53:26 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:53:26 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:55:37 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 4:55:37 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 4:55:37 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 4:55:37 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=DZmrmLnn-0Y&t=885s', duracion=2500, visualizaciones=0}
+mar. 12, 2021 5:02:42 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 5:02:42 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 5:02:42 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 5:02:42 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=uo_yV06qx54', duracion=500, visualizaciones=0}
+mar. 12, 2021 5:02:42 P. M. es.Video chequeaParametros
+ADVERTENCIA: Han intentado crear un video con URL falsa: http://www.google también intentas una duración de 543
+mar. 12, 2021 5:03:22 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 5:03:22 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 5:03:22 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 5:03:22 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=uo_yV06qx54', duracion=500, visualizaciones=0}
+mar. 12, 2021 5:03:22 P. M. es.Video chequeaParametros
+ADVERTENCIA: Han intentado crear un video con URL falsa: http://www.google también intentas una duración de 543
+mar. 12, 2021 5:03:48 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 5:03:48 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 5:03:48 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 5:03:48 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=uo_yV06qx54', duracion=500, visualizaciones=0}
+mar. 12, 2021 5:03:48 P. M. es.Video chequeaParametros
+ADVERTENCIA: Han intentado crear un video con URL falsa: http://www.google también intentas una duración de 543
+mar. 12, 2021 5:35:42 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 5:35:42 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 5:35:42 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 5:35:42 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=uo_yV06qx54', duracion=500, visualizaciones=0}
+mar. 12, 2021 5:35:42 P. M. es.Video chequeaParametros
+ADVERTENCIA: Han intentado crear un video con URL falsa: http://www.google también intentas una duración de 543
+mar. 12, 2021 5:36:05 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 5:36:05 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 5:36:05 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 5:36:05 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=uo_yV06qx54', duracion=500, visualizaciones=0}
+mar. 12, 2021 5:36:05 P. M. es.Video chequeaParametros
+ADVERTENCIA: Han intentado crear un video con URL falsa: http://www.google también intentas una duración de 543
+mar. 12, 2021 5:51:04 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 5:51:04 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 5:51:04 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 5:51:04 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=uo_yV06qx54', duracion=500, visualizaciones=0}
+mar. 12, 2021 5:51:04 P. M. es.Video chequeaParametros
+ADVERTENCIA: Han intentado crear un video con URL falsa: http://www.google también intentas una duración de 543
+mar. 12, 2021 5:54:55 P. M. es.Video <clinit>
+INFORMACIÓN: Comenzamos con los vídeos
+mar. 12, 2021 5:54:55 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=6ktfTV9imcc&t=6s', duracion=200, visualizaciones=0}
+mar. 12, 2021 5:54:55 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=XAowXcmQ-kA', duracion=300, visualizaciones=0}
+mar. 12, 2021 5:54:55 P. M. es.Video <init>
+INFORMACIÓN: Se ha creado un vídeo Video{url='https://www.youtube.com/watch?v=uo_yV06qx54', duracion=500, visualizaciones=0}
+mar. 12, 2021 5:54:55 P. M. es.Video chequeaParametros
+ADVERTENCIA: Han intentado crear un video con URL falsa: http://www.google también intentas una duración de 543

@@ -16,6 +16,17 @@ public class LectorPersonas {
     try {
       while(lineas.size()<2) {
         JFileChooser seleccionadorFichero = new JFileChooser("c:\\Users\\Miguel\\Desktop\\Programación");
+        seleccionadorFichero.addChoosableFileFilter(new FileFilter() {
+          @Override
+          public boolean accept(File f) {
+            return f.getName().endsWith("csv");
+          }
+
+          @Override
+          public String getDescription() {
+            return "extension csv";
+          }
+        });
 
         seleccionadorFichero.showOpenDialog(null);
         File f = seleccionadorFichero.getSelectedFile();
