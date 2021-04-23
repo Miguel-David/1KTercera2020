@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\Ficheros\DIRRecursivo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\Ficheros\EjemploFile.java">
           <value>
             <Attribute>
@@ -59,6 +66,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\Ficheros\MasGrandeDir.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\Ficheros\OcupacionPorExtension.java">
           <value>
             <Attribute>
@@ -67,6 +81,13 @@
           </value>
         </entry>
         <entry key="\Tercera\src\Ficheros\OrdenadorNombresFichero.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\Ficheros\RecorridoNoRecursivo.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
@@ -95,6 +116,76 @@
           </value>
         </entry>
         <entry key="\Tercera\src\es\domino\rrhh\calculadora\PanelOperaciones.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\BinarioRecursivo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\BucarEnArrayCompleto.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\ContarDosesRecursivo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\Factorial.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\FactorialRecursivo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\FibRecursiva.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\Fibonacci.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\MCDEuclides.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\Palindromo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\recursividad\RecorridoRecursivo.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
