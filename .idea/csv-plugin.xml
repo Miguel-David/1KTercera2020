@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\FicherosTexto\LectorTexto.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\Ficheros\ArchivoMasGrandeDirectorio.java">
           <value>
             <Attribute>
@@ -53,6 +60,13 @@
           </value>
         </entry>
         <entry key="\Tercera\src\Ficheros\EjemploFile.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\Ficheros\JA.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
@@ -94,7 +108,42 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\Ficheros\TamanyoDirectorio.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\Ficheros\UsoTamanyo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\clasificador\BuscaFicherosJava.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\clasificador\Clasificador.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\es\EjemploLog.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\es\Shadow.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />

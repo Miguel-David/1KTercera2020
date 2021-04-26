@@ -3,25 +3,17 @@ package Ficheros;
 import java.io.File;
 
 public class DIRRecursivo {
+  static long total=0;
   public static void main(String[] args) {
     File directorio=new File("..");
-    System.out.println(devuelveListaFicheros(directorio));
+    tamanyo(directorio);
+    System.out.println(total);
   }
 
-  private static String devuelveListaFicheros(File directorio) {
-    return devuelveListaFicheros(directorio,0);
-  }
-
-  private static String devuelveListaFicheros(File p,int nivel) {
-    String salida="";
-    for(File f:p.listFiles()){
-      for(int i=0;i<nivel;i++) salida+="| ";
-      if(f.isFile()) salida+=f.getName()+"\n";
-      else {
-        salida+="DIRECTORIO: "+f.getName()+"\n";
-        salida+=devuelveListaFicheros(f,nivel+1);
-      }
+  public static void tamanyo(File directorio) {
+    for (File f:directorio.listFiles()) {
+      if(f.isFile()) total+=f.length();
+      else tamanyo(f);
     }
-    return salida;
   }
 }
