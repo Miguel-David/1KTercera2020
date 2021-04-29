@@ -31,6 +31,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\FicherosTexto\BuscadorClases.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosTexto\BuscadorEnMemoria.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosTexto\EjemploFicheroGrande.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosTexto\EjemploFicherosPequenyos.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\FicherosTexto\LectorTexto.java">
           <value>
             <Attribute>

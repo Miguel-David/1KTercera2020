@@ -60,4 +60,3 @@ public class Clasificador {
     return ficheros;
   }
 }
-
