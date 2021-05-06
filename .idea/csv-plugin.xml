@@ -31,6 +31,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\FicherosDatos\EscribirPersonaFichero.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosDatos\LeerPersonaFichero.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosDatos\Persona.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\FicherosTexto\BuscadorClases.java">
           <value>
             <Attribute>
@@ -59,7 +80,42 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\FicherosTexto\EscribirNumeros.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\FicherosTexto\LectorTexto.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosTexto\LectorWeb.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosTexto\Poetizador.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosTexto\PoetizadorFiltrosFichero.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosTexto\Reader.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
