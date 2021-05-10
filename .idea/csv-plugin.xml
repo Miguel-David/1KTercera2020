@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\EscribirAleatorio.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\Excepciones\TemperaturaLocalidadDiaria.java">
           <value>
             <Attribute>
@@ -38,7 +45,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Tercera\src\FicherosDatos\LeerMecanico.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Tercera\src\FicherosDatos\LeerPersonaFichero.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tercera\src\FicherosDatos\Mecanico.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />

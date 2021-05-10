@@ -1,10 +1,11 @@
 package FicherosDatos;
 
+import javax.swing.*;
 import java.io.*;
 
 public class LeerPersonaFichero {
   public static void main(String[] args) throws IOException {
-    try(DataInputStream dis=new DataInputStream(new FileInputStream("personas.dam"))) {
+    try(DataInputStream dis=new DataInputStream(new FileInputStream(args[0]))) {
       while(true) {
         String nia = dis.readUTF();
         String nombre = dis.readUTF();
@@ -19,7 +20,7 @@ public class LeerPersonaFichero {
           String nombreAmigo=dis.readUTF();
           leida.anyadeAmigo(nombreAmigo);
         }
-        System.out.println(leida);
+        JOptionPane.showMessageDialog(null,leida);
       }
     } catch (EOFException eofe){
       System.out.println("Terminado de leer");

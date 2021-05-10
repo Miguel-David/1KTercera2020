@@ -3,8 +3,9 @@
     <output-path>$PROJECT_DIR$/out/artifacts/1KTercera2020_jar</output-path>
     <root id="archive" name="1KTercera2020.jar">
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/../1K/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ApacheCommons/commons-io-2.8.0.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
